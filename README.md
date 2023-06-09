@@ -52,9 +52,10 @@ obtener una comprensión más profunda de los textos.
 
 DESCRIPCION
 
-Esta pagina fue creada para las personas que desean analizar un texto, en cuanto a 
-numero de caracteres, palabras, numeros, cuanto es la suma de numeros, asi como la longitud media
+Esta pagina fue creada para los usuarios que desean analizar un texto, en cuanto a 
+numero de caracteres, palabras, numeros, cuanto es la suma de los numeros, asi como la longitud media
 del texto.
+Independientemente del texto o uso, la pagina se presenta en colores rosa, que es un color alegre y tranquilo.
 
 ## 3. Funcionalidades
 
@@ -406,7 +407,7 @@ usuarias en el centro**
 ### Diseño de producto
 
 * **Diseñar en distintos niveles de fidelidad**
-image.png
+<img width="776" alt="image" src="https://github.com/NahomiVRojas/DEV009-text-analyzer/assets/127104999/769845cd-d9ed-4a0f-bb1b-c49345902f0a">
 
   - [ ] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
 
