@@ -14,7 +14,7 @@ inputUser.addEventListener('keyup',()=>{
   textinner[3].innerHTML='Numeros:'+ analyzer.getNumberCount(inputUser.value)
   // Sumar todos los numeros que encuentre
   textinner[4].innerHTML='Suma Numeros:' + analyzer.getNumberSum(inputUser.value)
-  // Longitud media de las palabras 
+  // Longitud media de las palabras npm
   textinner[5].innerHTML='Longitud de Palabras:'+ analyzer.getAverageWordLength(inputUser.value)
 })    
 
