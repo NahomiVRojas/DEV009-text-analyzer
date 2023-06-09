@@ -49,6 +49,13 @@ tomar decisiones informadas y sacar conclusiones significativas.
 Mediante el uso de estas herramientas de análisis, los usuarios pueden
 obtener una comprensión más profunda de los textos.
 
+
+DESCRIPCION
+
+Esta pagina fue creada para las personas que desean analizar un texto, en cuanto a 
+numero de caracteres, palabras, numeros, cuanto es la suma de numeros, asi como la longitud media
+del texto.
+
 ## 3. Funcionalidades
 
 En este proyecto implementarás un analizador de texto web para calcular
@@ -399,6 +406,7 @@ usuarias en el centro**
 ### Diseño de producto
 
 * **Diseñar en distintos niveles de fidelidad**
+image.png
 
   - [ ] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
 
